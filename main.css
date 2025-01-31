@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: orange;
+}
+.sogot{
+    background-color: #FFCD38;
+    display: flex;
+width: 850px;
+margin-top: 266px;
+margin-left: 330px;
+padding-top: 33px;
+padding-left: 35px;
+padding-bottom: 32px;
+border-radius: 5px;
+gap: 57px;
+}
+.sogot2{
+    border-radius: 9px;
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 109px;
+    box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+    width: 221px;
+    height: 235px;
+    padding-top: 55px;
+}
+.sogot1{
+    margin-left: 62px;
+}
+.text{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-left: 81px;
+}
+.korobka{
+    border-radius: 9px;
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 109px;
+    box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+    width: 221px;
+    height: 235px;
+    padding-top: 55px;
+}
+.minut{
+    margin-left: 64px;
+}
+.text{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-left: 81px;
+}
+.secund{
+    margin-left: 62px;
+}
